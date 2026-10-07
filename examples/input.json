@@ -1,0 +1,8 @@
+{
+  "queries": [
+    "startup",
+    "machine learning"
+  ],
+  "maxPublicationsPerQuery": 8,
+  "maxItems": 16
+}
